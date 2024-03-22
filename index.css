@@ -23,6 +23,11 @@ section {
   padding: 16px;
 }
 
+nav > ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 #title {
   font-size: 40px;
   font-weight: 800;
