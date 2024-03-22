@@ -1,11 +1,11 @@
 body {
-  background-color: #222222;
-  text-color: #EEEEEE;
+  background-color: whitesmoke;
+  text-color: #eeeeee;
 }
 
 .nav-link {
- color: orange;
- text-decoration: none;
+  color: orange;
+  text-decoration: none;
 }
 
 main {
@@ -43,5 +43,4 @@ nav > ul {
   margin-right: 100px;
   margin-top: 32px;
   margin-bottom: 32px;
-
 }
